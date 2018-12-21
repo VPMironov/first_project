@@ -1,5 +1,5 @@
 <?
-# bd parametr
+# bd parametr 1
 define('prefix', 'an_');
 $db_host = 'localhost'; # Имя хоста БД
 $db_name = 'u0432667_silatel'; # Имя базы данных
